@@ -1,5 +1,5 @@
 movies="Frozen","FantasticBeast","JungleBook"
-money=input("enter the money you have:")
+money=int(input("enter the money you have:"))
 if(money>=500):
      print("Welcome to ",movies[0])
 elif (money>=250):
