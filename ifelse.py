@@ -8,3 +8,4 @@ elif (money>=120):
      print("Welcome to ",movies[2])
 else:
      print("Pl go and watch ur Tele vision")
+     '''jadvfbgn'''
